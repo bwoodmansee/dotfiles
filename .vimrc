@@ -50,12 +50,12 @@ syntax on " syntax highlighting on
 set ai " autoindent
 set si " smartindent
 set cindent " do c-style indenting
-"#set tabstop=4 " tab spacing (settings below are just to unify it)
+set tabstop=4 " tab spacing (settings below are just to unify it)
 "Backspace key will remove 4 spaces for tabs
-"#set softtabstop=4 " unify
+set softtabstop=4 " unify
 "Indentation
-"#set shiftwidth=4 " unify
-"#set expandtab " no real tabs please! use spaces instead
+set shiftwidth=4 " unify
+set expandtab " no real tabs please! use spaces instead
 set nowrap " do not wrap lines
 set enc=utf8
 "Use case in search only if caps are present in search term
