@@ -37,7 +37,7 @@ set fillchars=vert:\ ,stl:\ ,stlnc:\
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 """
 set background=dark " we are using a dark background
-"colors slate 
+colorscheme solarized 
 syntax on " syntax highlighting on
 
 
